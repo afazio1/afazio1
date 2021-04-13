@@ -2,7 +2,7 @@
 ## I'm Alexa | Content Creator behind [Robotic Nation][youtube]
 
 <!--
-**afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Just a girl who likes to code :)
 
@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Database Management
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
--->
+
 ### Languages I Know
 
 - 🐍 Python
@@ -20,6 +20,8 @@
 - 🖥️ Javascript
 - 🔐 Java
 - 🐦 Swift
+
+---
 
 ### Socials
 
