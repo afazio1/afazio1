@@ -4,7 +4,7 @@
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Just a girl who likes to code :)
+### Just a girl who likes to code :)
 
 - 🔭 I’m currently working on a Swift UI YouTube Series
 - 🌱 I’m currently learning iOS App Development with Swift 
