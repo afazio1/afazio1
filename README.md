@@ -25,9 +25,9 @@
 
 ### Socials
 
-[<img align="left" alt="Alexa | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png"/>][youtube]
-[<img align="left" alt="Alexa | Discord" width="22px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png"/>][discord]
-[<img align="left" alt="Alexa | Discord" width="22px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
+[<img align="left" alt="Alexa | YouTube" width="25px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png"/>][youtube]
+[<img align="left" alt="Alexa | Discord" width="25px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png"/>][discord]
+[<img align="left" alt="Alexa | Discord" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
 
 
 [youtube]: https://www.youtube.com/c/RoboticNation
