@@ -6,7 +6,7 @@
 
 ### Just a girl who likes to code :)
 
-- 🔭 I’m currently working on a Swift UI YouTube Series
+- 🔭 I’m currently working on a full stack portfolio website
 - 🌱 I’m currently learning iOS App Development with Swift 
 - 👯 I’m looking to collaborate on an Indie Pixel Game
 - 🤔 I’m looking for help with Database Management
@@ -17,7 +17,7 @@
 
 - 🐍 Python
 - 🔆 HTML/CSS
-- 🖥️ Javascript
+- 🖥️ Javascript / NodeJS
 - 🔐 Java
 - 🐦 Swift
 
