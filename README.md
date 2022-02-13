@@ -16,7 +16,7 @@
 ### Languages I Know
 
 - 🐍 Python
-- 🔆 HTML/CSS
+- 🔆 HTML / CSS
 - 🖥️ Javascript / NodeJS
 - 🔐 Java
 - 🐦 Swift
