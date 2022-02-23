@@ -7,7 +7,7 @@
 ### Just a girl who likes to code :)
 
 - 🔭 I’m currently working on a full stack portfolio website
-- 🌱 I’m currently learning iOS App Development with Swift 
+- 🌱 I’m currently learning full stack web development (Express, Mongo, React) 
 - 👯 I’m looking to collaborate on an Indie Pixel Game
 - 🤔 I’m looking for help with Database Management
 - 😄 Pronouns: She / Her
