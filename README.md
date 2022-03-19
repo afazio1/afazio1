@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a full stack portfolio website
 - 🌱 I’m currently learning full stack web development (Express, Mongo, React) 
 - 👯 I’m looking to collaborate on an Indie Pixel Game
-- 🤔 I’m looking for help with Database Management
+- 🤔 I’m looking for help with React / React Native
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
 
