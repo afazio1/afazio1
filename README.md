@@ -13,12 +13,13 @@
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
 
-### Languages I Know
+### Skills
 
 - 🐍 Python
 - 🔆 HTML / CSS
 - 🖥️ Javascript / NodeJS
-- 🔐 Java
+- 🐘 PHP
+- ☕ Java
 - 🐦 Swift
 
 ---
