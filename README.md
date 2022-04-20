@@ -1,5 +1,5 @@
 ### Hi there, 👋
-## I'm Alexa | Content Creator behind [Robotic Nation][youtube]
+## I'm [Alexa][portfolio] | Content Creator behind [Robotic Nation][youtube]
 
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -38,3 +38,4 @@
 [instagram]: https://www.instagram.com/robotic.nation/
 [course]: https://www.udemy.com/course/discordbotpy/?referralCode=4867E51677EDC7BE8B9C
 [twitch]: https://www.twitch.tv/ratgirlboss
+[portfolio]: https://www.alexafazio.dev
