@@ -6,10 +6,10 @@
 
 ### Just a girl who likes to code :)
 
-- 🔭 I’m currently working on a full stack portfolio website
-- 🌱 I’m currently learning full stack web development (Express, Mongo, React) 
+- 🔭 I’m currently working on a Songify web clone
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on an Indie Pixel Game
-- 🤔 I’m looking for help with React / React Native
+- 🤔 I’m looking for help with Game Design
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
 
