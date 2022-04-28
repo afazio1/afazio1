@@ -28,7 +28,7 @@
 
 ---
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afazio1&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afazio1)
 
 ---
 ### Socials
