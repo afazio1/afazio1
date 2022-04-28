@@ -24,11 +24,7 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true)
-
----
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afazio1)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afazio1)
 
 ---
 ### Socials
