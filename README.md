@@ -31,7 +31,7 @@
 [<img align="left" alt="Alexa | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
 [<img align="left" alt="Alexa | Twitch" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-twitch/contentbuilder/avatar_default.png"/>][twitch]
 
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true)
 
 [youtube]: https://www.youtube.com/c/RoboticNation
 [discord]: https://discord.gg/qpAxYaF
