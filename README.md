@@ -27,6 +27,10 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true)
 
 ---
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afazio1&theme=blue-green)
+
+---
 ### Socials
 
 [<img align="left" alt="Alexa | YouTube" width="25px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png"/>][youtube]
