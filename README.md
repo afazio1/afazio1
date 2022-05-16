@@ -6,7 +6,7 @@
 
 ### Just a girl who likes to code :)
 
-- 🔭 I’m currently working on a Songify web clone
+- 🔭 I’m currently working on a fitness tracker app
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on an Indie Pixel Game
 - 🤔 I’m looking for help with Game Design
