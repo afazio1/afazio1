@@ -24,7 +24,7 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true&theme=prussian)
 
 ---
 ### Socials
