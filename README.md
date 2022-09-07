@@ -15,12 +15,11 @@
 
 ### Skills
 
+- ☕ Java
 - 🐍 Python
 - 🔆 HTML / CSS
 - 🖥️ Javascript / NodeJS
 - 🐘 PHP
-- ☕ Java
-- 🐦 Swift
 
 ---
 
