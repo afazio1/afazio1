@@ -6,8 +6,8 @@
 
 ### Just a girl who likes to code :)
 
-- 🔭 I’m currently working on a fitness tracker app
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my dev blog
+- 🌱 I’m currently learning cybersecurity stuff
 - 👯 I’m looking to collaborate on an Indie Pixel Game
 - 🤔 I’m looking for help with Game Design
 - 😄 Pronouns: She / Her
@@ -15,10 +15,12 @@
 
 ### Skills
 
+- 🖥️ JavaScript (ES6+)
+- 🚀 Backend Web Development
+- 👾 C-lang
 - ☕ Java
 - 🐍 Python
 - 🔆 HTML / CSS
-- 🖥️ Javascript / NodeJS
 - 🐘 PHP
 
 ---
