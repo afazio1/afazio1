@@ -7,9 +7,8 @@
 ### Just a girl who likes to code :)
 
 - 🔭 I’m currently working on an Obsidian plugin
-- 🌱 I’m currently learning cybersecurity stuff
+- 🌱 I’m currently creating web dev content on YouTube
 - 👯 I’m looking to collaborate on an Indie Pixel Game
-- 🤔 I’m looking for help with Game Design
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
 
