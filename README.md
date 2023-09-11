@@ -15,7 +15,7 @@
 ### Skills
 
 - 🖥️ JavaScript (ES6+)
-- 🚀 Backend Web Development
+- 🚀 Fullstack Web Development
 - 👾 C-lang
 - ☕ Java
 - 🐍 Python
