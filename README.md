@@ -1,5 +1,5 @@
 ### Hi there, 👋
-## I'm [Alexa][portfolio] | Content Creator behind [Robotic Nation][youtube]
+## I'm [Alexa][portfolio]
 
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
