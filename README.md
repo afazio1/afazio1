@@ -39,5 +39,5 @@
 [discord]: https://discord.gg/qpAxYaF
 [instagram]: https://www.instagram.com/robotic.nation/
 [course]: https://www.udemy.com/course/discordbotpy/?referralCode=4867E51677EDC7BE8B9C
-[twitch]: https://www.twitch.tv/ratgirlboss
+[twitch]: https://www.twitch.tv/robotic_nation
 [portfolio]: https://www.alexafazio.dev
