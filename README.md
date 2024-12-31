@@ -4,26 +4,6 @@
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Just a girl who likes to code :)
-
-- 🔭 I’m currently working on an Obsidian plugin
-- 🌱 I’m currently creating web dev content on YouTube
-- 👯 I’m looking to collaborate on an Indie Pixel Game
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: I created a [Discord Py Course][course] on Udemy! 
-
-### Skills
-
-- 🖥️ JavaScript (ES6+)
-- 🚀 Fullstack Web Development
-- 👾 C-lang
-- ☕ Java
-- 🐍 Python
-- 🔆 HTML / CSS
-- 🐘 PHP
-
----
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=afazio1&show_icons=true&theme=prussian)
 
 ---
