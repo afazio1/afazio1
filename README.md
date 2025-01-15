@@ -1,6 +1,12 @@
-### Hi there, 👋
-## I'm [Alexa][portfolio]
+## Hi, I'm [Alexa][portfolio]
+About me:
+- I'm an undergraduate at the **Georgia Institute of Technology** studying Computer Science
+- I'm pursuing concentrations in **Systems & Architecture** and **Networking & Internet Systems**
+- Most of my experience is in **full stack development** and **systems programming**
 
+Experience:
+- Incoming Production Engineer Intern @ Meta
+- Previously @ Ericsson
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
