@@ -1,11 +1,12 @@
 ## Hi, I'm [Alexa][portfolio]
 About me:
-- I'm an undergraduate at the **Georgia Institute of Technology** studying Computer Science
-- I'm pursuing concentrations in **Systems & Architecture** and **Networking & Internet Systems**
-- Most of my experience is in **full stack development** and **systems programming**
+- 🐝 I'm an undergraduate at the **Georgia Institute of Technology** studying Computer Science
+- 👾 I'm pursuing concentrations in **Systems & Architecture** and **Networking & Internet Systems**
+- 👩‍💻 Most of my experience is in **full stack development** and **systems programming**
 
 Experience:
 - Incoming Production Engineer Intern @ Meta
+- Director of Engineering @ [Bits of Good][bog] a [Hack4Impact][hack4impact] Chapter
 - Previously @ Ericsson
 <!--
 **afazio1/afazio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -27,3 +28,5 @@ Experience:
 [course]: https://www.udemy.com/course/discordbotpy/?referralCode=4867E51677EDC7BE8B9C
 [twitch]: https://www.twitch.tv/robotic_nation
 [portfolio]: https://www.alexafazio.dev
+[bog]: https://bitsofgood.org/
+[hack4impact]: https://hack4impact.org/
