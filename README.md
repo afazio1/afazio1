@@ -5,7 +5,7 @@ About me:
 - 👩‍💻 Most of my experience is in **full stack development** and **systems programming**
 
 Experience:
-- Incoming Production Engineer Intern @ Meta
+- Production Engineer Intern @ Meta
 - Director of Engineering @ [Bits of Good][bog] a [Hack4Impact][hack4impact] Chapter
 - Previously @ Ericsson
 <!--
